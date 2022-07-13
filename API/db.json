@@ -1,0 +1,28 @@
+{
+  "BooksService": [
+    {
+      "id": 1,
+      "name": "book1",
+      "price": "10",
+      "quantity": "1",
+      "category": "Filosofia",      
+      "img": "book1"      
+    },
+    {
+      "id": 2,
+      "name": "book2",
+      "price": "10",
+      "quantity": "1",
+      "category": "Administracao",      
+      "img": "book2" 
+    },
+    {
+      "id": 3,
+      "name": "book3",
+      "price": "10",
+      "quantity": "1",
+      "category": "Romance de aventura",      
+      "img": "book3"
+    }
+  ]
+}
